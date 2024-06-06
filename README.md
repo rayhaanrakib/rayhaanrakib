@@ -1,4 +1,4 @@
-[![Banner](https://i.ibb.co/HT2TzPF/banner.png)](https://rayhaanrakib.vercel.app/)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Peace+be+upon+you+&hearts;">
 </p>
@@ -53,12 +53,6 @@
 ### 👯 I’m looking - To collaborate on open source projects.
 
 <br><br>
-
-## Top Projects -
-
-[![GoStudent-Classroom](https://i.ibb.co/wpV86cq/Projects-1.png)](https://gostudent.vercel.app)
-[![meal-connect](https://i.ibb.co/qjmbMsN/Projects-2.png)](https://meal-connect.vercel.app)
-[![PriyoShop](https://i.ibb.co/qYZ6jSJ/Projects-3.png)](https://priyotech.vercel.app)
 
 <p align="left">
   <a href="https://github.com/rayhanrakib28?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
