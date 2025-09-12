@@ -46,9 +46,9 @@
 <a href="https://app.daily.dev/mir"><img align="right" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="200" alt="overview"/></a>
 </div>
 
-### 🔭 I’m working - On SIC Projects.
+### 🔭 I’m working - On SI Projects.
 
-### 🌱 I’m exploring - Redux From Beginner Level To Advanced.
+### 🌱 I’m exploring - TypeScript From Beginner Level To Advanced.
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
