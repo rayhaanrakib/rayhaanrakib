@@ -23,7 +23,7 @@
 I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the frontend and has been growing into building complete, production-ready applications end to end.
 
 - 🎨 Started with **React, Tailwind CSS & JavaScript** — now building full-stack products
-- 🌱 Currently expanding into **TypeScript, PostgreSQL, Prisma, Supabase & OOP**
+- 🌱 Currently expanding into **NextJS, TypeScript, PostgreSQL, Prisma, Supabase & OOP**
 - 🛠️ Comfortable shipping across the full **MERN stack**, moving into **Next.js**
 - 🚀 Focused on real, deployed products — not just tutorial builds
 - 🎓 Completing my B.Sc. (results pending)
