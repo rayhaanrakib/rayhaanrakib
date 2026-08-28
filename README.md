@@ -84,40 +84,151 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><strong>🎓 Go Student Classroom</strong></summary>
+<!-- ============================================= -->
+<!-- ★ PROJECT 01 — GO STUDENT CLASSROOM ★ -->
+<!-- ============================================= -->
 
-A classroom management platform that helps teachers create classes, manage students, publish assignments, and streamline online learning.
+<table width="100%" align="center">
+<tr>
+<td width="100%">
 
-**Tech Stack:** React • Node.js • Express • MongoDB • Firebase
+<div align="center">
 
-📦 **Repository:** [View on GitHub](https://github.com/rayhaanrakib/GoStudent-Client)
+![Go Student Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B131A,100:2DD4BF&height=120&section=header&text=Go%20Student%20Classroom&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Modern%20Classroom%20Management%20Platform&descSize=14&descAlignY=62&descAlign=50)
 
-</details>
-<details>
-<summary><strong>🛍️ Sian Boutique</strong></summary>
+</div>
 
-A modern fashion e-commerce platform with a responsive shopping experience, secure authentication, and online payment integration.
+> ### 🎓 A classroom management platform empowering teachers to create classes, manage students, publish assignments, and streamline online learning workflows end-to-end.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • Stripe
+<div align="center">
 
-📦 **Repository:** [View on GitHub](https://github.com/rayhaanrakib/Si-an-Boutique)
+**⚡ TECH STACK**
 
-</details>
-<details>
-<summary><strong>🏡 RentNest — Rental Marketplace API</strong></summary>
+![React](https://img.shields.io/badge/React-0B131A?style=for-the-badge&logo=react&logoColor=2DD4BF)
+![Node.js](https://img.shields.io/badge/Node.js-0B131A?style=for-the-badge&logo=node.js&logoColor=2DD4BF)
+![Express](https://img.shields.io/badge/Express-0B131A?style=for-the-badge&logo=express&logoColor=2DD4BF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B131A?style=for-the-badge&logo=mongodb&logoColor=2DD4BF)
+![Firebase](https://img.shields.io/badge/Firebase-0B131A?style=for-the-badge&logo=firebase&logoColor=2DD4BF)
 
-A scalable backend for a rental marketplace featuring role-based authentication, property management, rental requests, Stripe payments, and a clean Prisma architecture.
+</div>
 
-**Tech Stack:** TypeScript • Express.js • PostgreSQL • Prisma • Stripe
+**✨ Key Highlights**
+- 🏫 &nbsp;Class creation & real-time student enrollment management
+- 📝 &nbsp;Publish assignments with deadlines and automated tracking
+- 🔐 &nbsp;Secure Firebase authentication with role-based access
+- 📊 &nbsp;Intuitive teacher & student dashboards
 
-📦 **Repository:** [View on GitHub](https://github.com/rayhaanrakib/RentNest-Backend-Project)
+<div align="center">
 
-</details>
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/GoStudent-Client)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-> 💼 **Explore more projects:** **[rayhaanrakib.vercel.app](https://rayhaanrakib.vercel.app)**
+<!-- ============================================= -->
+<!-- ★ PROJECT 02 — SIAN BOUTIQUE ★ -->
+<!-- ============================================= -->
+
+<table width="100%" align="center">
+<tr>
+<td width="100%">
+
+<div align="center">
+
+![Sian Boutique Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B131A,100:2DD4BF&height=120&section=header&text=Sian%20Boutique&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Modern%20Fashion%20E-commerce%20Platform&descSize=14&descAlignY=62&descAlign=50)
+
+</div>
+
+> ### 🛍️ A modern fashion e-commerce platform delivering a responsive shopping experience, secure authentication, and seamless online payment integration.
+
+<div align="center">
+
+**⚡ TECH STACK**
+
+![React](https://img.shields.io/badge/React-0B131A?style=for-the-badge&logo=react&logoColor=2DD4BF)
+![Node.js](https://img.shields.io/badge/Node.js-0B131A?style=for-the-badge&logo=node.js&logoColor=2DD4BF)
+![Express](https://img.shields.io/badge/Express-0B131A?style=for-the-badge&logo=express&logoColor=2DD4BF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B131A?style=for-the-badge&logo=mongodb&logoColor=2DD4BF)
+![Stripe](https://img.shields.io/badge/Stripe-0B131A?style=for-the-badge&logo=stripe&logoColor=2DD4BF)
+
+</div>
+
+**✨ Key Highlights**
+- 🛒 &nbsp;Dynamic product catalog with smart filtering & search
+- 💳 &nbsp;End-to-end Stripe payment integration with secure checkout
+- 📱 &nbsp;Mobile-first responsive design across all devices
+- 👤 &nbsp;Full user auth, wishlists, and order-history tracking
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/Si-an-Boutique)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================================= -->
+<!-- ★ PROJECT 03 — RENTNEST ★ -->
+<!-- ============================================= -->
+
+<table width="100%" align="center">
+<tr>
+<td width="100%">
+
+<div align="center">
+
+![RentNest Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B131A,100:2DD4BF&height=120&section=header&text=RentNest%20API&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Scalable%20Rental%20Marketplace%20Backend&descSize=14&descAlignY=62&descAlign=50)
+
+</div>
+
+> ### 🏡 A scalable backend for a rental marketplace featuring role-based auth, property management, rental requests, Stripe payments, and clean Prisma architecture.
+
+<div align="center">
+
+**⚡ TECH STACK**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0B131A?style=for-the-badge&logo=typescript&logoColor=2DD4BF)
+![Express](https://img.shields.io/badge/Express-0B131A?style=for-the-badge&logo=express&logoColor=2DD4BF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B131A?style=for-the-badge&logo=postgresql&logoColor=2DD4BF)
+![Prisma](https://img.shields.io/badge/Prisma-0B131A?style=for-the-badge&logo=prisma&logoColor=2DD4BF)
+![Stripe](https://img.shields.io/badge/Stripe-0B131A?style=for-the-badge&logo=stripe&logoColor=2DD4BF)
+
+</div>
+
+**✨ Key Highlights**
+- 🔒 &nbsp;Multi-role authentication (Admin, Landlord, Tenant)
+- 🏢 &nbsp;Full CRUD property listings with rich request workflows
+- 💰 &nbsp;Stripe payment gateway with webhook-based confirmation
+- 🗄️ &nbsp;Type-safe Prisma ORM & normalized PostgreSQL schema
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-2DD4BF?style=for-the-badge&logo=github&logoColor=0B131A)](https://github.com/rayhaanrakib/RentNest-Backend-Project)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 💼 Want to see more?
+
+[![Explore Full Portfolio](https://img.shields.io/badge/EXPLORE_FULL_PORTFOLIO-0B131A?style=for-the-badge&logo=vercel&logoColor=2DD4BF&labelColor=0B131A)](https://rayhaanrakib.vercel.app)
+
+</div>
 
 <br/>
 
@@ -125,15 +236,23 @@ A scalable backend for a rental marketplace featuring role-based authentication,
 
 <div align="center">
 
-<!-- Row 1: Core Stats & Top Languages -->
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=rayhaanrakib&show_icons=true&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&hide_border=false" alt="Rakibul's GitHub Stats" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhaanrakib&layout=compact&theme=dark&bg_color=0B131A&title_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&hide_border=false" alt="Rakibul's Top Languages" />
+  <!-- Card 1: Commit Streak -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhaanrakib&theme=dark&background=0B131A&fire=2DD4BF&ring=2DD4BF&currStreakNum=2DD4BF&sideNums=B9C7CA&sideLabels=B9C7CA&dates=B9C7CA&border=2DD4BF" alt="Rakibul's Commit Streak" />
+  
+  <br/><br/>
 
-<br/><br/>
+  <!-- Card 2: Overall GitHub Stats -->
+  <img width="100%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rayhaanrakib&show_icons=true&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&hide_border=false" alt="Rakibul's GitHub Stats" />
+  
+  <br/><br/>
 
-<!-- Row 2: Consistency Streak & Contribution Activity -->
-<img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhaanrakib&theme=dark&background=0B131A&fire=2DD4BF&ring=2DD4BF&currStreakNum=2DD4BF&sideNums=B9C7CA&sideLabels=B9C7CA&dates=B9C7CA&border=2DD4BF&hide_border=false" alt="Rakibul's GitHub Streak" />
-<img height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=rayhaanrakib&bg_color=0B131A&color=2DD4BF&line=2DD4BF&point=B9C7CA&area=true&hide_border=false&border_color=2DD4BF" alt="Rakibul's Contribution Graph" />
+  <!-- Card 3: Top Languages Used -->
+  <img width="100%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=rayhaanrakib&layout=compact&theme=dark&bg_color=0B131A&title_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&hide_border=false" alt="Rakibul's Top Languages" />
+  
+  <br/><br/>
+
+  <!-- Card 4: GitHub Trophies -->
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rayhaanrakib&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="Rakibul's Trophies" />
 
 </div>
 
