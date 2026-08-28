@@ -222,11 +222,44 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 
 <br/>
 
+<!-- ============================================= -->
+<!-- ★ RECENT PROJECTS INTERACTIVE CARDS ★ -->
+<!-- ============================================= -->
+
+### <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0OG14aGFmbDZ6Z2J3eGpjdzNmMGxneGpuajdkbDF1ZHVsd3N1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ugvn4HEbU2FqZyJQ2o/giphy.gif" width="36" alt="ProjectBuilding-gif"/></a>&nbsp; Live Repository Status
+
+<table width="100%" style="width:100%; table-layout:fixed;">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/rayhaanrakib/RentNest-Frontend-Project">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=RentNest-Frontend-Project&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="RentNest Frontend Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/rayhaanrakib/RentNest-Backend-Project">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=RentNest-Backend-Project&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="RentNest Backend Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/rayhaanrakib/Prisma-Express-Server-Setup-Guide">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=Prisma-Express-Server-Setup-Guide&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="Prisma Express Server Setup Guide Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/rayhaanrakib/rayhan.dev">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=rayhaanrakib&repo=rayhan.dev&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&show_owner=false" alt="rayhan.dev Repo Card" width="100%" height="150" style="width:100%; height:150px; object-fit:cover;">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-### 💼 Want to see more?
-
-[![Explore Full Portfolio](https://img.shields.io/badge/EXPLORE_FULL_PORTFOLIO-0B131A?style=for-the-badge&logo=vercel&logoColor=2DD4BF&labelColor=0B131A)](https://rayhaanrakib.vercel.app)
+<a href="https://github.com/rayhaanrakib?tab=repositories&sort=stargazers">
+  <img alt="AllRepositories" title="All of Rayhan's Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-2DD4BF?style=for-the-badge&logoColor=0B131A&logo=repo"/>
+</a>
 
 </div>
 
@@ -234,27 +267,16 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <!-- Card 1: Commit Streak -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhaanrakib&theme=dark&background=0B131A&fire=2DD4BF&ring=2DD4BF&currStreakNum=2DD4BF&sideNums=B9C7CA&sideLabels=B9C7CA&dates=B9C7CA&border=2DD4BF" alt="Rakibul's Commit Streak" />
-  
-  <br/><br/>
-
-  <!-- Card 2: Overall GitHub Stats -->
-  <img width="100%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=rayhaanrakib&show_icons=true&theme=dark&bg_color=0B131A&title_color=2DD4BF&icon_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&hide_border=false" alt="Rakibul's GitHub Stats" />
-  
-  <br/><br/>
-
-  <!-- Card 3: Top Languages Used -->
-  <img width="100%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=rayhaanrakib&layout=compact&theme=dark&bg_color=0B131A&title_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&hide_border=false" alt="Rakibul's Top Languages" />
-  
-  <br/><br/>
-
-  <!-- Card 4: GitHub Trophies -->
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rayhaanrakib&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="Rakibul's Trophies" />
-
-</div>
+<table width="100%" style="width:100%; table-layout:fixed;">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhaanrakib&theme=dark&background=0B131A&fire=2DD4BF&ring=2DD4BF&currStreakNum=2DD4BF&sideNums=B9C7CA&sideLabels=B9C7CA&dates=B9C7CA&border=2DD4BF" alt="Rakibul's Commit Streak" width="100%" height="200" style="width:100%; height:200px; object-fit:cover;">
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rayhaanrakib&layout=compact&theme=dark&bg_color=0B131A&title_color=2DD4BF&text_color=B9C7CA&border_color=2DD4BF&hide_border=false" alt="Rakibul's Top Languages" width="100%" height="200" style="width:100%; height:200px; object-fit:cover;">
+    </td>
+  </tr>
+</table>
 
 <br/>
 
