@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rayhaanrakib/rayhaanrakib/main/assets/github-banner.png" width="100%" alt="Rakibul Islam Rayhan — Full Stack Developer" />
+<img src="https://raw.githubusercontent.com/rayhaanrakib/rayhaanrakib/main/github-banner.png" width="100%" alt="Rakibul Islam Rayhan — Full Stack Developer" />
 
 <br /><br />
 
