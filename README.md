@@ -26,10 +26,10 @@
 <table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
     <td width="50%" align="center" style="padding:4px;">
-      <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788777355/animated-1.gif" width="100%" style="max-width:380px; border-radius:8px;" alt="animated desk aesthetic" />
+      <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788779444/animated-1.gif" width="100%" style="max-width:380px; border-radius:8px;" alt="animated desk aesthetic" />
     </td>
     <td width="50%" align="center" style="padding:4px;">
-      <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788777354/animated-2.gif" width="100%" style="max-width:380px; border-radius:8px;" alt="animated balcony aesthetic" />
+      <img src="https://res.cloudinary.com/atwb5lzk/image/upload/v1788779444/animated-2.gif" width="100%" style="max-width:380px; border-radius:8px;" alt="animated balcony aesthetic" />
     </td>
   </tr>
 </table>
