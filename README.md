@@ -70,6 +70,87 @@ I'm **Rakibul Islam Rayhan**, a full-stack web developer who started on the fron
 
 <br/>
 
+<div align="center">
+
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/⚡_EXPLORE_MY_FULL_TECH_ARSENAL-0B131A?style=for-the-badge&logoColor=2DD4BF&labelColor=2DD4BF&color=0B131A" alt="Explore Tech Stack" />
+  <br/>
+  <sub><i>👆 Click to expand and view all technologies I work with</i></sub>
+</summary>
+
+<br/>
+
+<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td width="100%" valign="top" style="padding:16px;">
+
+### 💻 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React.js-0B131A?style=for-the-badge&logo=react&logoColor=2DD4BF" height="40" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-0B131A?style=for-the-badge&logo=next.js&logoColor=2DD4BF" height="40" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-0B131A?style=for-the-badge&logo=javascript&logoColor=2DD4BF" height="40" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0B131A?style=for-the-badge&logo=typescript&logoColor=2DD4BF" height="40" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux-0B131A?style=for-the-badge&logo=redux&logoColor=2DD4BF" height="40" alt="Redux" />
+  <img src="https://img.shields.io/badge/React_Router-0B131A?style=for-the-badge&logo=reactrouter&logoColor=2DD4BF" height="40" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Query-0B131A?style=for-the-badge&logo=reactquery&logoColor=2DD4BF" height="40" alt="React Query" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-0B131A?style=for-the-badge&logo=reacthookform&logoColor=2DD4BF" height="40" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0B131A?style=for-the-badge&logo=tailwindcss&logoColor=2DD4BF" height="40" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn/ui-0B131A?style=for-the-badge&logo=shadcnui&logoColor=2DD4BF" height="40" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Material_UI-0B131A?style=for-the-badge&logo=mui&logoColor=2DD4BF" height="40" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Bootstrap-0B131A?style=for-the-badge&logo=bootstrap&logoColor=2DD4BF" height="40" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-0B131A?style=for-the-badge&logo=html5&logoColor=2DD4BF" height="40" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0B131A?style=for-the-badge&logo=css3&logoColor=2DD4BF" height="40" alt="CSS3" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-0B131A?style=for-the-badge&logo=node.js&logoColor=2DD4BF" height="40" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-0B131A?style=for-the-badge&logo=express&logoColor=2DD4BF" height="40" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-0B131A?style=for-the-badge&logo=mongodb&logoColor=2DD4BF" height="40" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0B131A?style=for-the-badge&logo=postgresql&logoColor=2DD4BF" height="40" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-0B131A?style=for-the-badge&logo=prisma&logoColor=2DD4BF" height="40" alt="Prisma" />
+  <img src="https://img.shields.io/badge/NeonDB-0B131A?style=for-the-badge&logo=neon&logoColor=2DD4BF" height="40" alt="NeonDB" />
+  <img src="https://img.shields.io/badge/Supabase-0B131A?style=for-the-badge&logo=supabase&logoColor=2DD4BF" height="40" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-0B131A?style=for-the-badge&logo=firebase&logoColor=2DD4BF" height="40" alt="Firebase" />
+  <img src="https://img.shields.io/badge/JWT-0B131A?style=for-the-badge&logo=jsonwebtokens&logoColor=2DD4BF" height="40" alt="JWT" />
+  <img src="https://img.shields.io/badge/Passport.js-0B131A?style=for-the-badge&logo=passport&logoColor=2DD4BF" height="40" alt="Passport.js" />
+</p>
+
+### 🚀 DevOps & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-0B131A?style=for-the-badge&logo=vercel&logoColor=2DD4BF" height="40" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-0B131A?style=for-the-badge&logo=render&logoColor=2DD4BF" height="40" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-0B131A?style=for-the-badge&logo=netlify&logoColor=2DD4BF" height="40" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Firebase_Hosting-0B131A?style=for-the-badge&logo=firebase&logoColor=2DD4BF" height="40" alt="Firebase Hosting" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-0B131A?style=for-the-badge&logo=git&logoColor=2DD4BF" height="40" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0B131A?style=for-the-badge&logo=github&logoColor=2DD4BF" height="40" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0B131A?style=for-the-badge&logo=visualstudiocode&logoColor=2DD4BF" height="40" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-0B131A?style=for-the-badge&logo=postman&logoColor=2DD4BF" height="40" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-0B131A?style=for-the-badge&logo=figma&logoColor=2DD4BF" height="40" alt="Figma" />
+  <img src="https://img.shields.io/badge/Framer-0B131A?style=for-the-badge&logo=framer&logoColor=2DD4BF" height="40" alt="Framer" />
+</p>
+
+### 🛍️ CMS & E-commerce
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-0B131A?style=for-the-badge&logo=wordpress&logoColor=2DD4BF" height="40" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Shopify-0B131A?style=for-the-badge&logo=shopify&logoColor=2DD4BF" height="40" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Stripe-0B131A?style=for-the-badge&logo=stripe&logoColor=2DD4BF" height="40" alt="Stripe" />
+  <img src="https://img.shields.io/badge/SSLCommerz-0B131A?style=for-the-badge&logoColor=2DD4BF" height="40" alt="SSLCommerz" />
+</p>
+
+</td>
+  </tr>
+</table>
+
+</details>
+
+</div>
+
 <br/>
 
 ## 🚀 Featured Projects
